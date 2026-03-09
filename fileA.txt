@@ -1,2 +1,2 @@
-This is the version from Repo B
-
+Feature A implemented
+Feature B implemented
